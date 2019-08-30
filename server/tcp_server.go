@@ -1,8 +1,8 @@
 package server
 
 import (
-	"github.com/ScottAI/chatserver/protocol"
 	"errors"
+	"github.com/ScottAI/chatserver/protocol"
 	"io"
 	"log"
 	"net"
