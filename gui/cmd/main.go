@@ -1,9 +1,9 @@
 package main
 
 import (
-	"../../client"
-	"../../gui"
 	"flag"
+	"github.com/ScottAI/chatserver/client"
+	"github.com/ScottAI/chatserver/gui"
 	"github.com/gpmgo/gopm/modules/log"
 )
 

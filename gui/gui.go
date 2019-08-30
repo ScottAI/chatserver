@@ -1,12 +1,12 @@
 package gui
 
 import (
-	"github.com/ScottAI/chatserver/client"
 	"fmt"
 	"fyne.io/fyne"
 	"fyne.io/fyne/app"
 	"fyne.io/fyne/layout"
 	"fyne.io/fyne/widget"
+	"github.com/ScottAI/chatserver/client"
 )
 
 func StartUi(c client.Client) {

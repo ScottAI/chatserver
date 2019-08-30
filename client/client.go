@@ -4,7 +4,7 @@ import (
 	"github.com/ScottAI/chatserver/protocol"
 )
 
-type messageHandler func (string) 
+//type messageHandler func (string)
 
 type Client interface {
 	Dial(address string) error
