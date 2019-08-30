@@ -1,7 +1,7 @@
 package main
 
 import (
-	"../../server"
+	"github.com/ScottAI/chatserver/server"
 )
 
 func main()  {

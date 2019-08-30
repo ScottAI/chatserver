@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"../protocol"
+	"github.com/ScottAI/chatserver/protocol"
 )
 
 type TcpClient struct {

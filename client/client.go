@@ -1,7 +1,7 @@
 package client
 
 import (
-	"../protocol"
+	"github.com/ScottAI/chatserver/protocol"
 )
 
 type messageHandler func (string) 

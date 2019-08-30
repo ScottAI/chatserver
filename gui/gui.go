@@ -1,7 +1,7 @@
 package gui
 
 import (
-	"../client"
+	"github.com/ScottAI/chatserver/client"
 	"fmt"
 	"fyne.io/fyne"
 	"fyne.io/fyne/app"
