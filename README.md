@@ -44,4 +44,13 @@ Go语言实现简单聊天室
 ##### ------cmd
 ##### --------main.go
 
+## 运行效果
 
+#### 登录界面
+![](https://github.com/ScottAI/chatserver/blob/master/pictures/logon.png)
+
+#### 信息发送界面
+![](https://github.com/ScottAI/chatserver/blob/master/pictures/hello1.png)
+
+#### 发送完成界面
+![](https://github.com/ScottAI/chatserver/blob/master/pictures/send.png)
