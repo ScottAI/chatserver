@@ -2,6 +2,7 @@ package main
 
 import (
 	"flag"
+
 	"github.com/ScottAI/chatserver/client"
 	"github.com/ScottAI/chatserver/gui"
 	"github.com/gpmgo/gopm/modules/log"

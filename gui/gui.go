@@ -6,12 +6,12 @@ import (
 	"fyne.io/fyne/app"
 	"fyne.io/fyne/layout"
 	"fyne.io/fyne/widget"
+
 	"github.com/ScottAI/chatserver/client"
 )
 
 func StartUi(c client.Client) {
 	app := app.New()
-
 
 	loginWindow := app.NewWindow("登录")
 	input := widget.NewEntry()
@@ -35,10 +35,6 @@ func StartUi(c client.Client) {
 	))
 	loginWindow.Resize(fyne.NewSize(24,24))
 	loginWindow.ShowAndRun()
-
-
-
-
 
 }
 
